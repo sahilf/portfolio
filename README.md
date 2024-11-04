@@ -70,5 +70,5 @@ high-quality image embedding with minimal visual distortion, verified through PS
 - As a Secretary, worked on the Literacy Day bulletin and helped to organize and coordinate over 50 events in the year 2020-21. The main responsibility was to maintain proper reports for every event conducted in the year.
 
 ## Contact
-- sahilf2085@gmail.com
-- https://www.linkedin.com/in/sahil-f/
+- [Email](mailto:sahilf2085@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sahil-f/)
