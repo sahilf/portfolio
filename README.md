@@ -47,7 +47,7 @@ supporting critical problem resolution.
 - Designed a decentralized system, where bots autonomously allocate areas among themselves, generate paths within
   their designated zones, and traverse within them.
 - Introduced a novel path-planning method for optimal navigation efficiency within a polygon. Published at IEEE
-  International Conference on Electronics, Computing, and Communication Technologies (CONECCT), 2021.
+  International Conference on Electronics, Computing, and Communication Technologies (CONECCT), 2021. [Link](https://ieeexplore.ieee.org/document/9622347)
 
 ### Student Performance Prediction (Feb 2020 - May 2020)
 - Developed a linear regression model from scratch using the gradient descent method, implementing forward
@@ -69,3 +69,6 @@ high-quality image embedding with minimal visual distortion, verified through PS
 - As an Operations Director, responsible for logistics associated with various projects such as SUKH (Share yoUr Knowledge Happily) – a fundraiser for donating books to underprivileged students, The Gutsy Entrepreneur – a flagship business ideathon, Trek To Educate – a fundraiser trek conducted for computer literacy in rural areas (A computer lab was set up in a rural school) and many more. Volunteered for the Polio Vaccination Drive on the occasion of National Immunisation Day and vaccinated children less than 5 years of age.
 - As a Secretary, worked on the Literacy Day bulletin and helped to organize and coordinate over 50 events in the year 2020-21. The main responsibility was to maintain proper reports for every event conducted in the year.
 
+## Contact
+- sahilf2085@gmail.com
+- https://www.linkedin.com/in/sahil-f/
