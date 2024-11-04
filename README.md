@@ -10,7 +10,7 @@
 ## Skills
 
 ### Languages & Softwares
-Java, Python, Matlab, HTML/CSS, MySQL, PostgreSQL, Neo4j, Mariadb, Springboot, Angular
+Java, Python, Matlab, HTML/CSS, MySQL, PostgreSQL, Neo4j, Mariadb, Springboot, Angular, Ruby, Rails, Flutter
 
 ### Java Skills & Libraries
 REST APIs, Microservices Architecture, Spring Security, Messaging Systems
