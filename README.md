@@ -4,7 +4,7 @@
 
 | Institution | Degree | Duration | GPA |
 |-------------|--------|----------|-----|
-| Texas A&M University | Master of Computer Science | Aug 2024 - Dec 2025 | - |
+| Texas A&M University | Master of Computer Science | Aug 2024 - Present | - |
 | PES University | Bachelor of Technology, Electronics and Communication Engineering | Aug 2017 - May 2021 | 9.24/10 |
 
 ## Skills
@@ -23,42 +23,49 @@ Jenkins, Bitbucket, GitHub, JIRA, Docker
 ### Amadeus Software Labs India Pvt Ltd, Bangalore, IN
 
 #### Software Development Engineer 2 (Apr 2023 - Jul 2024)
-- Led development of a Software Asset Management enterprise solution, ensuring security compliance monitoring[1].
-- Built REST APIs using Spring Boot for PCI and PII compliance, streamlining processes for multiple teams[1].
-- Spearheaded migration of two legacy applications to Azure PaaS, integrating SSO through Azure AD[1].
-- Earned quarterly award for leading cloud migration efforts and supporting employee onboarding[1].
+- Led the development of a Software Asset Management enterprise solution, overseeing the complexities of the software architecture and ensuring security compliance monitoring for engineering teams.
+- Built REST APIs using Spring Boot that played a crucial role in enabling security teams to achieve PCI and PII compliance while streamlining processes for multiple other teams, making their tasks more manageable and efficient.
+- Spearheaded the migration of two legacy applications to Azure PaaS by strategizing their architecture and integrating Single Sign-On (SSO) through Azure Active Directory (Azure AD).
+- Earned 1 quarterly award for leading cloud migration efforts, managing knowledge transfer, and supporting employee onboarding and retention.
 
 #### Software Development Engineer 1 (Aug 2021 - Mar 2023)
-- Developed ETL jobs for a graph-based analysis software tool, enhancing product relationship visualization[1].
-- Collaborated on IT Debt project to identify outdated technologies and facilitate migration[1].
-- Received 2 quarterly awards for optimal solutions and critical problem resolution support[1].
+- Built ETL jobs for an analysis software tool, a graph-based tool for internal development, governance, and architecture
+teams. Modified the graphical view of the tool, helping users understand the relationships between various products.
+- Collaborated with the IT Debt project to identify outdated technologies and facilitate migration to the latest
+platforms. Ensured applications compliance and technology fit the company lifecycle strategy.
+- Recognized with 2 quarterly awards for consistently providing optimal solutions, prioritizing customer issues, and
+supporting critical problem resolution.
 
 #### Application Security Intern (Jan 2021 - May 2021)
-- Automated threat modelling process, mitigating security risks across multiple products[1].
-- Reduced problem-tracking record creation time by 60%[1].
+- Automated the threat modelling process, mitigating potential security risks identified in the Microsoft Threat Modeling
+  Tool, which resulted in significant improvements across multiple products.
+- Reduced the time required to create problem-tracking records and Jira tickets for open threats by 60%.
 
 ## Projects
 
 ### Automation In Agricultural Field Using Decentralised Framework (Aug 2020 - May 2021)
-- Designed decentralized system for autonomous bot area allocation and navigation[1].
-- Published novel path-planning method at IEEE CONECCT 2021[1].
+- Designed a decentralized system, where bots autonomously allocate areas among themselves, generate paths within
+  their designated zones, and traverse within them.
+- Introduced a novel path-planning method for optimal navigation efficiency within a polygon. Published at IEEE
+  International Conference on Electronics, Computing, and Communication Technologies (CONECCT), 2021.
 
 ### Student Performance Prediction (Feb 2020 - May 2020)
-- Developed linear regression model from scratch using gradient descent method[1].
-- Achieved accurate grade predictions with low mean absolute percentage error[1].
+- Developed a linear regression model from scratch using the gradient descent method, implementing forward
+propagation, cost function computation, and weight updates, without using built-in Python functions.
+- Trained the model on a student performance dataset to predict final grades achieving accurate predictions with a low
+mean absolute percentage error.
 
 ### Image Steganography (Oct 2019 - Dec 2019)
-- Created secure text embedding system in images using custom encryption algorithms[1].
-- Ensured data integrity and minimal visual distortion, verified through PSNR analysis[1].
+- Developed an image steganography system to securely embed and retrieve text data within images using custom
+encryption algorithms involving bit manipulation techniques.
+- Ensured data integrity by storing encrypted images in PNG format, preventing data loss during decryption. Achieved
+high-quality image embedding with minimal visual distortion, verified through PSNR analysis.
 
 ## Leadership
 
 ### Rotaract Club of PES University
 
 **Secretary & Director of Operations** (Aug 2019 - Jun 2021)
-- Managed logistics for various community projects including SUKH and Polio vaccination drive[1].
-- Coordinated over 50 events in 2020-21, including International Literacy Day bulletin[1].
+- As an Operations Director, responsible for logistics associated with various projects such as SUKH (Share yoUr Knowledge Happily) – a fundraiser for donating books to underprivileged students, The Gutsy Entrepreneur – a flagship business ideathon, Trek To Educate – a fundraiser trek conducted for computer literacy in rural areas (A computer lab was set up in a rural school) and many more. Volunteered for the Polio Vaccination Drive on the occasion of National Immunisation Day and vaccinated children less than 5 years of age.
+- As a Secretary, worked on the Literacy Day bulletin and helped to organize and coordinate over 50 events in the year 2020-21. The main responsibility was to maintain proper reports for every event conducted in the year.
 
-## Contact
-
-[Add your contact information here]
