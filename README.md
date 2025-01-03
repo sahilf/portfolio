@@ -4,7 +4,7 @@
 
 | Institution | Degree | Duration | GPA |
 |-------------|--------|----------|-----|
-| Texas A&M University | Master of Computer Science | Aug 2024 - Present | - |
+| Texas A&M University | Master of Computer Science | Aug 2024 - Present | 4/4 |
 | PES University | Bachelor of Technology, Electronics and Communication Engineering | Aug 2017 - May 2021 | 9.24/10 |
 
 ## Skills
@@ -43,6 +43,14 @@ supporting critical problem resolution.
 
 ## Projects
 
+### United States Space Force (USSF) GRC Control (Aug 2024 - Dec 2024)
+- Developed a Ruby on Rails-based SaaS application for the USSF, enabling cybersecurity teams to efficiently scan and assess Docker images for vulnerabilities, ensuring compliance with NIST SP800-53 controls.
+- Implemented advanced access control and versioning features, allowing USSF to track and manage Docker image vulnerabilities over time, ensuring continuous GRC compliance and security across environments.
+
+### Lunch Calorie Prediction (Aug 2024 - Dec 2024)
+- Developed a deep learning pipeline to predict calorie counts from lunch food images, integrating multimodal data (glucose levels, microbiome, demographics) for personalized nutrition predictions.
+- Applied contrastive learning with CLIP models to fuse image and numerical embeddings, achieving accurate calorie predictions with Root Mean Squared Relative Error (RMSRE).
+  
 ### Automation In Agricultural Field Using Decentralised Framework (Aug 2020 - May 2021)
 - Designed a decentralized system, where bots autonomously allocate areas among themselves, generate paths within
   their designated zones, and traverse within them.
@@ -70,5 +78,5 @@ high-quality image embedding with minimal visual distortion, verified through PS
 - As a Secretary, worked on the Literacy Day bulletin and helped to organize and coordinate over 50 events in the year 2020-21. The main responsibility was to maintain proper reports for every event conducted in the year.
 
 ## Contact
-- [Email](mailto:sahilf2085@gmail.com)
+- [Email](mailto:sahil.fayaz8899@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sahil-f/)
